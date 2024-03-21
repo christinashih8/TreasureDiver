@@ -1,4 +1,4 @@
-# HW03 TREASURE DIVER
+# TREASURE DIVER
 ## CONTROLS
 - Start: start the game
 - Select: (when in game) pause/unpause the game
